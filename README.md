@@ -6,7 +6,7 @@ Welcome to my **Data Analytics Portfolio**! 🚀 Here, you'll find projects show
 
 ## 📊 **Projects**
 
-### 🏪 **E-commerce Sales Dashboard | Power BI**
+### 🏦 **E-commerce Sales Dashboard | Power BI**
 📌 **Project Link**: [E-commerce Sales Dashboard](https://github.com/danishxzanish/E-commerce-Sales-Power-Bi-Dashboard)  
 📌 **Overview**:
 - Developed an **interactive Power BI dashboard** to analyze online sales across India.
@@ -26,6 +26,16 @@ Welcome to my **Data Analytics Portfolio**! 🚀 Here, you'll find projects show
 
 ---
 
+### 🏰 **Museum & Art Analytics | SQL**
+📌 **Project Link**: [Museum & Art Analytics (SQL)](https://github.com/danishxzanish/Museum-Art-Analytics-SQL)  
+📌 **Overview**:
+- Imported **Famous Paintings Dataset** from Kaggle into **SQL Server Management Studio (SSMS)**.
+- Cleaned and optimized data by **removing duplicates and fixing inconsistencies**.
+- Executed **22 SQL queries** to analyze **museum trends, artist popularity, and pricing insights**.
+- Identified **invalid museum data**, most popular artists, and museums with the longest opening hours.
+
+---
+
 ## 🛠️ **Skills & Tools Used**
 ✅ **Power BI** (DAX, Data Modeling, Interactive Dashboards)  
 ✅ **Excel** (Pivot Tables, Data Cleaning, Charts)  
@@ -35,4 +45,3 @@ Welcome to my **Data Analytics Portfolio**! 🚀 Here, you'll find projects show
 ---
 
 🚀 **More projects coming soon! Stay tuned.** 😃
-
